@@ -10,7 +10,7 @@
 	"author": "Anmol Nag",
 	"license": "MIT",
 	"dependencies": {
-		"@google/generative-ai": "^0.14.1",
+		"@google/genai": "^1.42.0",
 		"axios": "^1.7.2",
 		"bcryptjs": "^2.4.3",
 		"cloudinary": "^2.3.0",
